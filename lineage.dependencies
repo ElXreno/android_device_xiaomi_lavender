@@ -2,27 +2,27 @@
   {
     "repository"   : "ElXreno/android_device_xiaomi_sdm660-common",
     "target_path"  : "device/xiaomi/sdm660-common",
-    "branch"       : "lineageos-17.1-wip"
+    "branch"       : "lineageos-18.0"
   },
   {
     "repository"   : "ElXreno/android_vendor_xiaomi_sdm660-common",
     "target_path"  : "vendor/xiaomi/sdm660-common",
-    "branch"       : "lineageos-17.1-wip"
+    "branch"       : "lineageos-18.0"
   },
   {
     "repository"   : "ElXreno/android_vendor_xiaomi_lavender",
     "target_path"  : "vendor/xiaomi/lavender",
-    "branch"       : "lineageos-17.1-wip"
+    "branch"       : "lineageos-18.0"
   },
   {
     "repository"   : "ElXreno/android_kernel_xiaomi_sdm660",
     "target_path"  : "kernel/xiaomi/lavender",
-    "branch"       : "lineageos-17.1-wip"
+    "branch"       : "lineageos-18.0"
   },
   {
     "repository": "ElXreno/packages_apps_GoogleCamera_lavender",
     "target_path": "packages/apps/GoogleCamera",
-    "branch": "lineage-17.1-wip",
+    "branch": "lineage-18.0",
     "remote": "gitlab"
   }
 ]
